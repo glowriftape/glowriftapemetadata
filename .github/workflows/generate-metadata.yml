@@ -1,0 +1,62 @@
+name: Generate NFT Metadata
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-metadata:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Generate Metadata Files
+      run: |
+        python - <<EOF
+        import csv
+        import json
+        import os
+
+        os.makedirs("metadata", exist_ok=True)
+
+        with open("glowriftapetraits.csv", mode="r", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                token_id = row["ID"]
+                
+                # Construct attributes array dynamically based on CSV columns
+                attributes = []
+                for key, value in row.items():
+                    if key != "ID" and value.strip(): # Skip ID and empty traits
+                        attributes.append({
+                            "trait_type": key,
+                            "value": value.strip()
+                        })
+                
+                # Standard metadata structure compatible with smart contracts
+                metadata = {
+                    "name": f"Glowrift Ape #{token_id}",
+                    "description": f"Glowrift Ape NFT Collection Item #{token_id}",
+                    "image": f"https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/{token_id}.webp",
+                    "attributes": attributes
+                }
+                
+                # Save file without any extension (0, 1, 2, etc.)
+                file_path = os.path.join("metadata", token_id)
+                with open(file_path, "w", encoding="utf-8") as out_file:
+                    json.dump(metadata, out_file, indent=4)
+        EOF
+
+    - name: Commit and Push Metadata
+      run: |
+        git config --global user.name "glowriftape"
+        git config --global user.email "glowriftape@users.noreply.github.com"
+        git add metadata/
+        git commit -m "Generate standard metadata files sequentially"
+        git push origin main
