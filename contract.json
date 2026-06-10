@@ -1,0 +1,8 @@
+{
+  "name": "Glowrift Ape",
+  "description": "Glowrift Ape is a unique 10K NFT collection featuring high-quality artworks.",
+  "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/0.webp",
+  "external_link": "https://github.com/glowriftape",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xE2b5a1B328651C84B4fFBfF7db49557Ae34c6d92"
+}
