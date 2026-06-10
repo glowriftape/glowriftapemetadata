@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #5328",
+    "description": "Glowrift Ape NFT Collection Item #5328",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5328.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tuxedo Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Girl's Hair Pink"
+        }
+    ]
+}

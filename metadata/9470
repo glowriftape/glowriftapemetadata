@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #9470",
+    "description": "Glowrift Ape NFT Collection Item #9470",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9470.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sailor Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+        }
+    ]
+}

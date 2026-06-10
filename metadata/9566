@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9566",
+    "description": "Glowrift Ape NFT Collection Item #9566",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9566.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Admirals Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Ww2 Pilot Helm"
+        }
+    ]
+}

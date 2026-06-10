@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9914",
+    "description": "Glowrift Ape NFT Collection Item #9914",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9914.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Cowboy Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

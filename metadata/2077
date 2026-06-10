@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #2077",
+    "description": "Glowrift Ape NFT Collection Item #2077",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2077.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Party Hat 2"
+        }
+    ]
+}

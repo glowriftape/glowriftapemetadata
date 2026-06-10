@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8596",
+    "description": "Glowrift Ape NFT Collection Item #8596",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8596.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Baby's Bonnet"
+        }
+    ]
+}

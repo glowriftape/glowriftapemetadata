@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #5874",
+    "description": "Glowrift Ape NFT Collection Item #5874",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5874.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Pipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        }
+    ]
+}

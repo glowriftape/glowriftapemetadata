@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1748",
+    "description": "Glowrift Ape NFT Collection Item #1748",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1748.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Admirals Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        }
+    ]
+}

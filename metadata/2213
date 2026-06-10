@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #2213",
+    "description": "Glowrift Ape NFT Collection Item #2213",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2213.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hawaiian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme ooo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        }
+    ]
+}

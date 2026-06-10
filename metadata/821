@@ -1,0 +1,23 @@
+{
+    "name": "Glowrift Ape #821",
+    "description": "Glowrift Ape NFT Collection Item #821",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/821.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        }
+    ]
+}

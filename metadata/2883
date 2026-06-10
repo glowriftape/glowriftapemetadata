@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #2883",
+    "description": "Glowrift Ape NFT Collection Item #2883",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2883.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Stunt Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Cigar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        }
+    ]
+}

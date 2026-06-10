@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8110",
+    "description": "Glowrift Ape NFT Collection Item #8110",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8110.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Puffy Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Halo"
+        }
+    ]
+}

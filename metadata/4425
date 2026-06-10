@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #4425",
+    "description": "Glowrift Ape NFT Collection Item #4425",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4425.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Kings Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Prismatic"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #462",
+    "description": "Glowrift Ape NFT Collection Item #462",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/462.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Navy Striped Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #1996",
+    "description": "Glowrift Ape NFT Collection Item #1996",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1996.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "X Eyes"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Horns"
+        }
+    ]
+}

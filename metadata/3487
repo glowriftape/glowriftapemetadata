@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3487",
+    "description": "Glowrift Ape NFT Collection Item #3487",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3487.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Small Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Ww2 Pilot Helm"
+        }
+    ]
+}

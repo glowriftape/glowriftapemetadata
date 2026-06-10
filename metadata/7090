@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #7090",
+    "description": "Glowrift Ape NFT Collection Item #7090",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7090.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Radiant Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Service"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Multicolored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        }
+    ]
+}

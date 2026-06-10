@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #5594",
+    "description": "Glowrift Ape NFT Collection Item #5594",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5594.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Coins"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sushi Chef Headband"
+        }
+    ]
+}

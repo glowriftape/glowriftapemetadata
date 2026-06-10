@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #6044",
+    "description": "Glowrift Ape NFT Collection Item #6044",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6044.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tuxedo Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Oh"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #8175",
+    "description": "Glowrift Ape NFT Collection Item #8175",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8175.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sleeveless Logo T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Girl's Hair Pink"
+        }
+    ]
+}

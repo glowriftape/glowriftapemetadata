@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1723",
+    "description": "Glowrift Ape NFT Collection Item #1723",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1723.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Caveman Pelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        }
+    ]
+}

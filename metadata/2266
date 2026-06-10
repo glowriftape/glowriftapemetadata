@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #2266",
+    "description": "Glowrift Ape NFT Collection Item #2266",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2266.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tweed Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Discomfort"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "X Eyes"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Ww2 Pilot Helm"
+        }
+    ]
+}

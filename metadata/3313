@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3313",
+    "description": "Glowrift Ape NFT Collection Item #3313",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3313.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Faux Hawk"
+        }
+    ]
+}

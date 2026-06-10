@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #42",
+    "description": "Glowrift Ape NFT Collection Item #42",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/42.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Biker Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Coins"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Baby's Bonnet"
+        }
+    ]
+}

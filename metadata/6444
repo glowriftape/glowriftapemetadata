@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #6444",
+    "description": "Glowrift Ape NFT Collection Item #6444",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6444.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hawaiian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Coins"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "King's Crown"
+        }
+    ]
+}

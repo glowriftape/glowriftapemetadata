@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4560",
+    "description": "Glowrift Ape NFT Collection Item #4560",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4560.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sailor Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Vuh"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Prussian Helmet"
+        }
+    ]
+}

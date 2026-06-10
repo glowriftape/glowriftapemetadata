@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9353",
+    "description": "Glowrift Ape NFT Collection Item #9353",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9353.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Short Mohawk"
+        }
+    ]
+}

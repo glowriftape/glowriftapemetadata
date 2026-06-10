@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #9677",
+    "description": "Glowrift Ape NFT Collection Item #9677",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9677.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sailor Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Party horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        }
+    ]
+}

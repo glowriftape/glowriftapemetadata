@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #6591",
+    "description": "Glowrift Ape NFT Collection Item #6591",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6591.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Diamond Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather Spectrum Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Vuh"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

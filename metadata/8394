@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8394",
+    "description": "Glowrift Ape NFT Collection Item #8394",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8394.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather Spectrum Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme ooo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

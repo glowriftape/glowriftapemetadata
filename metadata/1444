@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1444",
+    "description": "Glowrift Ape NFT Collection Item #1444",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1444.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Kazoo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Halo"
+        }
+    ]
+}

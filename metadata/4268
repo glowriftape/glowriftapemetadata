@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #4268",
+    "description": "Glowrift Ape NFT Collection Item #4268",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4268.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Service"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Small Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        }
+    ]
+}

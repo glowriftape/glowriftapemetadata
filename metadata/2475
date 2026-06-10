@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #2475",
+    "description": "Glowrift Ape NFT Collection Item #2475",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2475.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Caveman Pelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fez"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1416",
+    "description": "Glowrift Ape NFT Collection Item #1416",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1416.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Service"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        }
+    ]
+}

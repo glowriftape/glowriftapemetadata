@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9081",
+    "description": "Glowrift Ape NFT Collection Item #9081",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9081.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Work Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hypnotized"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

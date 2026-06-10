@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4805",
+    "description": "Glowrift Ape NFT Collection Item #4805",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4805.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Prom Dress"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        }
+    ]
+}

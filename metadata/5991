@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #5991",
+    "description": "Glowrift Ape NFT Collection Item #5991",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5991.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Navy Striped Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Kazoo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Beanie"
+        }
+    ]
+}

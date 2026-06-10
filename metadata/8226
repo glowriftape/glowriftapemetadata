@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8226",
+    "description": "Glowrift Ape NFT Collection Item #8226",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8226.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Blue Dress"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        }
+    ]
+}

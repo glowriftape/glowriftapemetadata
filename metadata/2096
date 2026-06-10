@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #2096",
+    "description": "Glowrift Ape NFT Collection Item #2096",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2096.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Gold Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fossil Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme ooo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

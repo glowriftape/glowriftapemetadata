@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #2409",
+    "description": "Glowrift Ape NFT Collection Item #2409",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2409.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Smoking Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        }
+    ]
+}

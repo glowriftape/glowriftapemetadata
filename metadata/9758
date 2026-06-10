@@ -1,0 +1,23 @@
+{
+    "name": "Glowrift Ape #9758",
+    "description": "Glowrift Ape NFT Collection Item #9758",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9758.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rage"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        }
+    ]
+}

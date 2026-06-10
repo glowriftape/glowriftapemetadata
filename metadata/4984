@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #4984",
+    "description": "Glowrift Ape NFT Collection Item #4984",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4984.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Puffy Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Multicolored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        }
+    ]
+}

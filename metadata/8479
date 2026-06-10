@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8479",
+    "description": "Glowrift Ape NFT Collection Item #8479",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8479.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Lumberjack Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Vietnam Era Helmet"
+        }
+    ]
+}

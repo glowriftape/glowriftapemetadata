@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #6898",
+    "description": "Glowrift Ape NFT Collection Item #6898",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6898.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Prison Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "S&m Hat"
+        }
+    ]
+}

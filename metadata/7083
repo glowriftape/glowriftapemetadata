@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #7083",
+    "description": "Glowrift Ape NFT Collection Item #7083",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7083.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Coins"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Ww2 Pilot Helm"
+        }
+    ]
+}

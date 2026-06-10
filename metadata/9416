@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #9416",
+    "description": "Glowrift Ape NFT Collection Item #9416",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9416.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Girl's Hair Pink"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1471",
+    "description": "Glowrift Ape NFT Collection Item #1471",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1471.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Cigar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Baby's Bonnet"
+        }
+    ]
+}

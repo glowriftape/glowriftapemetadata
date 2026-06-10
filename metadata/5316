@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #5316",
+    "description": "Glowrift Ape NFT Collection Item #5316",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5316.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Rainbow Suspenders"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme L"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Halo"
+        }
+    ]
+}

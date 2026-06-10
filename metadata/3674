@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3674",
+    "description": "Glowrift Ape NFT Collection Item #3674",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3674.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sushi Chef Headband"
+        }
+    ]
+}

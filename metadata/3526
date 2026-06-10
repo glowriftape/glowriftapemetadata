@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3526",
+    "description": "Glowrift Ape NFT Collection Item #3526",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3526.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "X Eyes"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #2339",
+    "description": "Glowrift Ape NFT Collection Item #2339",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2339.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Navy Striped Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Flipped Brim"
+        }
+    ]
+}

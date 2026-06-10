@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #3297",
+    "description": "Glowrift Ape NFT Collection Item #3297",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3297.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Caveman Pelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Flipped Brim"
+        }
+    ]
+}

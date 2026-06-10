@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3914",
+    "description": "Glowrift Ape NFT Collection Item #3914",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3914.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Vietnam Era Helmet"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #561",
+    "description": "Glowrift Ape NFT Collection Item #561",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/561.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        }
+    ]
+}

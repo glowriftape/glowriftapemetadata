@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8351",
+    "description": "Glowrift Ape NFT Collection Item #8351",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8351.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Void Bot"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Irish Boho"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9379",
+    "description": "Glowrift Ape NFT Collection Item #9379",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9379.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Black T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Pipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Patrol Motorcycle Helmet"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #400",
+    "description": "Glowrift Ape NFT Collection Item #400",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/400.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tie Dye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Wah"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neonborg"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fisherman's Hat"
+        }
+    ]
+}

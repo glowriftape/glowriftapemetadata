@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1950",
+    "description": "Glowrift Ape NFT Collection Item #1950",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1950.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme ooo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Halo"
+        }
+    ]
+}

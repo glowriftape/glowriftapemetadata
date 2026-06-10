@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #7724",
+    "description": "Glowrift Ape NFT Collection Item #7724",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7724.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Kazoo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neonborg"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Prussian Helmet"
+        }
+    ]
+}

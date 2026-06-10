@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #7699",
+    "description": "Glowrift Ape NFT Collection Item #7699",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7699.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Prom Dress"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #5406",
+    "description": "Glowrift Ape NFT Collection Item #5406",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5406.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fossil Necklace"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Coins"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Horns"
+        }
+    ]
+}

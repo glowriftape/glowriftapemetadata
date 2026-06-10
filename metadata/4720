@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4720",
+    "description": "Glowrift Ape NFT Collection Item #4720",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4720.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Discomfort"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Vietnam Era Helmet"
+        }
+    ]
+}

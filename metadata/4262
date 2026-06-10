@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #4262",
+    "description": "Glowrift Ape NFT Collection Item #4262",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4262.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Vietnam Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Shadow Hat"
+        }
+    ]
+}

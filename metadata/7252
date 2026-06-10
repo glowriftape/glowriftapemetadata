@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #7252",
+    "description": "Glowrift Ape NFT Collection Item #7252",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7252.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Phantom"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Vietnam Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        }
+    ]
+}

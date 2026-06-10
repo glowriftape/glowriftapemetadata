@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #1246",
+    "description": "Glowrift Ape NFT Collection Item #1246",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1246.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Smoking Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Dagger"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Hat Red"
+        }
+    ]
+}

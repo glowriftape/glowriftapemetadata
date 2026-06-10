@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8526",
+    "description": "Glowrift Ape NFT Collection Item #8526",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8526.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tweed Suit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        }
+    ]
+}

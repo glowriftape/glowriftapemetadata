@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #9941",
+    "description": "Glowrift Ape NFT Collection Item #9941",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9941.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Dagger"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Stuntman Helmet"
+        }
+    ]
+}

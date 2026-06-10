@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8888",
+    "description": "Glowrift Ape NFT Collection Item #8888",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8888.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Spinner Hat"
+        }
+    ]
+}

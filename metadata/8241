@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8241",
+    "description": "Glowrift Ape NFT Collection Item #8241",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8241.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Discomfort"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "S&m Hat"
+        }
+    ]
+}

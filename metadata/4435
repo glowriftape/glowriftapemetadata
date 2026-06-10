@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4435",
+    "description": "Glowrift Ape NFT Collection Item #4435",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4435.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tuxedo Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Multicolored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scumbag"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Beanie"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #9593",
+    "description": "Glowrift Ape NFT Collection Item #9593",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9593.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Hat Red"
+        }
+    ]
+}

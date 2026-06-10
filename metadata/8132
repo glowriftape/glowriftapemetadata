@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #8132",
+    "description": "Glowrift Ape NFT Collection Item #8132",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8132.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tie Dye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Discomfort"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sushi Chef Headband"
+        }
+    ]
+}

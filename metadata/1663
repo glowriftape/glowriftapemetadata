@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #1663",
+    "description": "Glowrift Ape NFT Collection Item #1663",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1663.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tie Dye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        }
+    ]
+}

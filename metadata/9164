@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9164",
+    "description": "Glowrift Ape NFT Collection Item #9164",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9164.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Prom Dress"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bowler"
+        }
+    ]
+}

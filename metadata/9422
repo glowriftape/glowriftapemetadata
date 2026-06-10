@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #9422",
+    "description": "Glowrift Ape NFT Collection Item #9422",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9422.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rage"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neonborg"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Ww2 Pilot Helm"
+        }
+    ]
+}

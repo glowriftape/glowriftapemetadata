@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #6058",
+    "description": "Glowrift Ape NFT Collection Item #6058",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6058.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Flipped Brim"
+        }
+    ]
+}

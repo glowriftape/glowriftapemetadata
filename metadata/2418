@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #2418",
+    "description": "Glowrift Ape NFT Collection Item #2418",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2418.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Gold Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Phantom"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Toga"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Discomfort"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8309",
+    "description": "Glowrift Ape NFT Collection Item #8309",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8309.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Lumberjack Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme L"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Safari"
+        }
+    ]
+}

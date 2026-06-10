@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4091",
+    "description": "Glowrift Ape NFT Collection Item #4091",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4091.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Lab Coat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bowler"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Glowrift Ape #594",
+    "description": "Glowrift Ape NFT Collection Item #594",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/594.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Noise"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Prison Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bunny Ears"
+        }
+    ]
+}

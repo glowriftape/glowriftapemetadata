@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #3882",
+    "description": "Glowrift Ape NFT Collection Item #3882",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3882.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Kings Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Crimson Hat"
+        }
+    ]
+}

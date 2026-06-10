@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3814",
+    "description": "Glowrift Ape NFT Collection Item #3814",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3814.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Prom Dress"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        }
+    ]
+}

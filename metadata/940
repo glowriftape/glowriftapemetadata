@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #940",
+    "description": "Glowrift Ape NFT Collection Item #940",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/940.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Rainbow Suspenders"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Multicolored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sushi Chef Headband"
+        }
+    ]
+}

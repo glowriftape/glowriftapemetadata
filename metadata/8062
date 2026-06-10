@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8062",
+    "description": "Glowrift Ape NFT Collection Item #8062",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8062.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Gold Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Kazoo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "X Eyes"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Horns"
+        }
+    ]
+}

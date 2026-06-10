@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8376",
+    "description": "Glowrift Ape NFT Collection Item #8376",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8376.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Diamond Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        }
+    ]
+}

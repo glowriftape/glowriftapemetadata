@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #504",
+    "description": "Glowrift Ape NFT Collection Item #504",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/504.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Beanie"
+        }
+    ]
+}

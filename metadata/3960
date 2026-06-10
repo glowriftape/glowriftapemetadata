@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3960",
+    "description": "Glowrift Ape NFT Collection Item #3960",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3960.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Service"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rage"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        }
+    ]
+}

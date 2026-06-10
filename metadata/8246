@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8246",
+    "description": "Glowrift Ape NFT Collection Item #8246",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8246.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Short Mohawk"
+        }
+    ]
+}

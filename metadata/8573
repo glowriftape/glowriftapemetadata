@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8573",
+    "description": "Glowrift Ape NFT Collection Item #8573",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8573.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Smoking Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Dumbfounded"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        }
+    ]
+}

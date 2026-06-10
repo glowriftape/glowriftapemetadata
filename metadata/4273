@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #4273",
+    "description": "Glowrift Ape NFT Collection Item #4273",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4273.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fossil Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        }
+    ]
+}

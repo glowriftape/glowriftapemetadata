@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #3452",
+    "description": "Glowrift Ape NFT Collection Item #3452",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3452.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Phantom"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sleeveless T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Patrol Motorcycle Helmet"
+        }
+    ]
+}

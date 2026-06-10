@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4748",
+    "description": "Glowrift Ape NFT Collection Item #4748",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4748.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hawaiian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Vietnam Era Helmet"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3738",
+    "description": "Glowrift Ape NFT Collection Item #3738",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3738.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Stunt Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        }
+    ]
+}

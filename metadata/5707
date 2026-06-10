@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #5707",
+    "description": "Glowrift Ape NFT Collection Item #5707",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5707.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather Spectrum Jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Ww2 Pilot Helm"
+        }
+    ]
+}

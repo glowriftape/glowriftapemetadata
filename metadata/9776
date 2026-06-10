@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #9776",
+    "description": "Glowrift Ape NFT Collection Item #9776",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9776.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Flipped Brim"
+        }
+    ]
+}

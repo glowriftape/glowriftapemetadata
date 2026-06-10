@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #5523",
+    "description": "Glowrift Ape NFT Collection Item #5523",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5523.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Chrome"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Caveman Pelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bandana Blue"
+        }
+    ]
+}

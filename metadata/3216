@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #3216",
+    "description": "Glowrift Ape NFT Collection Item #3216",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3216.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Phantom"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rage"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bunny Ears"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #1741",
+    "description": "Glowrift Ape NFT Collection Item #1741",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/1741.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fossil Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Small Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Phantom"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Shadow Hat"
+        }
+    ]
+}

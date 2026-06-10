@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9621",
+    "description": "Glowrift Ape NFT Collection Item #9621",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9621.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Diamond Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigar"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Vietnam Era Helmet"
+        }
+    ]
+}

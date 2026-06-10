@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8441",
+    "description": "Glowrift Ape NFT Collection Item #8441",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8441.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Wool Turtleneck"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Vuh"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scumbag"
+        }
+    ]
+}

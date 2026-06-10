@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #4861",
+    "description": "Glowrift Ape NFT Collection Item #4861",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4861.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Void Rift T"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        }
+    ]
+}

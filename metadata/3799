@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #3799",
+    "description": "Glowrift Ape NFT Collection Item #3799",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/3799.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Kings Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scumbag"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+        }
+    ]
+}

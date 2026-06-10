@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #9061",
+    "description": "Glowrift Ape NFT Collection Item #9061",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/9061.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Crimson Hat"
+        }
+    ]
+}

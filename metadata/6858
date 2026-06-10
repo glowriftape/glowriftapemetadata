@@ -1,0 +1,23 @@
+{
+    "name": "Glowrift Ape #6858",
+    "description": "Glowrift Ape NFT Collection Item #6858",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6858.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Kazoo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        }
+    ]
+}

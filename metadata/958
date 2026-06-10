@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #958",
+    "description": "Glowrift Ape NFT Collection Item #958",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/958.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3d"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sky Captain's Hat"
+        }
+    ]
+}

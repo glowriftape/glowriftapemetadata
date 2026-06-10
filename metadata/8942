@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8942",
+    "description": "Glowrift Ape NFT Collection Item #8942",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8942.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Caveman Pelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Pipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Prismatic"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Voyager's Hat"
+        }
+    ]
+}

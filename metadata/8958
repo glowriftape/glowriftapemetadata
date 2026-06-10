@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8958",
+    "description": "Glowrift Ape NFT Collection Item #8958",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8958.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Party Horn"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Glowrift Flipped Brim"
+        }
+    ]
+}

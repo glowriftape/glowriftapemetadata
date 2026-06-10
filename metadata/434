@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #434",
+    "description": "Glowrift Ape NFT Collection Item #434",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/434.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fossil Tee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        }
+    ]
+}

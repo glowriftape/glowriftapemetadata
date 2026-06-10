@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #7132",
+    "description": "Glowrift Ape NFT Collection Item #7132",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7132.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Work Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Vuh"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blindfold"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Baby's Bonnet"
+        }
+    ]
+}

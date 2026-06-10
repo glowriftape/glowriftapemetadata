@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #5284",
+    "description": "Glowrift Ape NFT Collection Item #5284",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5284.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Wool Turtleneck"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Phoneme Wah"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Crazy"
+        }
+    ]
+}

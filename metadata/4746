@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4746",
+    "description": "Glowrift Ape NFT Collection Item #4746",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4746.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Wool Turtleneck"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven Dagger"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyepatch"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Fez"
+        }
+    ]
+}

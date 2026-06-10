@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #4514",
+    "description": "Glowrift Ape NFT Collection Item #4514",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/4514.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Diamond Stud"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rage"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Vietnam Era Helmet"
+        }
+    ]
+}

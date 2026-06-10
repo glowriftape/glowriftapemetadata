@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #5638",
+    "description": "Glowrift Ape NFT Collection Item #5638",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/5638.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cheetah"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hawaiian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wide Eyed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Patrol Motorcycle Helmet"
+        }
+    ]
+}

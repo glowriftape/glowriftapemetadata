@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #2695",
+    "description": "Glowrift Ape NFT Collection Item #2695",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2695.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Silver Hoop"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Unshaven"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sushi Chef Headband"
+        }
+    ]
+}

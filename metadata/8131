@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8131",
+    "description": "Glowrift Ape NFT Collection Item #8131",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8131.webp",
+    "attributes": [
+        {
+            "trait_type": "Earring",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Jovial"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        }
+    ]
+}

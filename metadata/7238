@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #7238",
+    "description": "Glowrift Ape NFT Collection Item #7238",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/7238.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Golden Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Coins"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Crimson Hat"
+        }
+    ]
+}

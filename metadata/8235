@@ -1,0 +1,23 @@
+{
+    "name": "Glowrift Ape #8235",
+    "description": "Glowrift Ape NFT Collection Item #8235",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8235.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        }
+    ]
+}

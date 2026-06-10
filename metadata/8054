@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8054",
+    "description": "Glowrift Ape NFT Collection Item #8054",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8054.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Tan"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bandolier"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Small Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloodshot"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Baby's Bonnet"
+        }
+    ]
+}

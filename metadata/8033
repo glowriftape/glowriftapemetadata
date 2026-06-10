@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #8033",
+    "description": "Glowrift Ape NFT Collection Item #8033",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8033.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Lumberjack Shirt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+        }
+    ]
+}

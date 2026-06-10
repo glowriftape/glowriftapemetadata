@@ -1,0 +1,27 @@
+{
+    "name": "Glowrift Ape #8301",
+    "description": "Glowrift Ape NFT Collection Item #8301",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/8301.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Beanie"
+        }
+    ]
+}

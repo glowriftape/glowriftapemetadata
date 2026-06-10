@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #6262",
+    "description": "Glowrift Ape NFT Collection Item #6262",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/6262.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Caveman Pelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Cigarette"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Phantom"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sushi Chef Headband"
+        }
+    ]
+}

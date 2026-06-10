@@ -1,0 +1,31 @@
+{
+    "name": "Glowrift Ape #2182",
+    "description": "Glowrift Ape NFT Collection Item #2182",
+    "image": "https://raw.githubusercontent.com/glowriftape/glowriftapeimage/main/images/2182.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Void Black"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Biker Vest"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Prussian Helmet"
+        }
+    ]
+}
